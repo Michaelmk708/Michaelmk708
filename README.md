@@ -1,11 +1,12 @@
 - # 👋 Hi, I'm Michael Kinuthia
 
-I'm a passionate **Web Developer** with a growing interest in **Cybersecurity**. I enjoy building dynamic web applications using modern tools and frameworks, and I'm always eager to learn more — especially when it comes to securing what I build.
+I'm a passionate **software Developer** with a growing interest in **Cybersecurity**. I enjoy building softwares in both web 2 and web3  using modern tools and frameworks, and I'm always eager to learn more — especially when it comes to securing what I build.
 
 ## 🛠️ Skills
 
-- **Frontend**: HTML, CSS, JavaScript, React (basic)
-- **Backend**: Python, Django, REST APIs
+- **Frontend**: HTML, CSS, JavaScript, React 
+- **Backend**: Python, Django, REST APIs,node.js,express
+- **web3**:solana,icp,rust
 - **Database**: SQLite, PostgreSQL (beginner)
 - **Security**: Basic knowledge of vulnerabilities (XSS, SQLi), authentication, and HTTPS best practices
 - **Other Tools**: Git & GitHub, Postman, VS Code

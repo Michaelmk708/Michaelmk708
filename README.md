@@ -8,7 +8,7 @@ I'm a passionate **software Developer** with a growing interest in **Cybersecuri
 - **Backend**: Python, Django, REST APIs,node.js,express
 - **web3**:solana,icp,rust
 - **Database**: SQLite, PostgreSQL 
-- **Security**: Basic knowledge of vulnerabilities (XSS, SQLi), authentication, and HTTPS best practices
+- **Security**: Basic knowledge of vulnerabilities (XSS, SQLi), authentication, and HTTPS best practices,web3 security
 - **Other Tools**: Git & GitHub, Postman, VS Code
 
 ## 🌱 Currently Learning
